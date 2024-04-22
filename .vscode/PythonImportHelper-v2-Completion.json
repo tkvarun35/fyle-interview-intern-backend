@@ -1,0 +1,1930 @@
+[
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "decorators",
+        "importPath": "core.apis",
+        "description": "core.apis",
+        "isExtraImport": true,
+        "detail": "core.apis",
+        "documentation": {}
+    },
+    {
+        "label": "decorators",
+        "importPath": "core.apis",
+        "description": "core.apis",
+        "isExtraImport": true,
+        "detail": "core.apis",
+        "documentation": {}
+    },
+    {
+        "label": "decorators",
+        "importPath": "core.apis",
+        "description": "core.apis",
+        "isExtraImport": true,
+        "detail": "core.apis",
+        "documentation": {}
+    },
+    {
+        "label": "APIResponse",
+        "importPath": "core.apis.responses",
+        "description": "core.apis.responses",
+        "isExtraImport": true,
+        "detail": "core.apis.responses",
+        "documentation": {}
+    },
+    {
+        "label": "APIResponse",
+        "importPath": "core.apis.responses",
+        "description": "core.apis.responses",
+        "isExtraImport": true,
+        "detail": "core.apis.responses",
+        "documentation": {}
+    },
+    {
+        "label": "APIResponse",
+        "importPath": "core.apis.responses",
+        "description": "core.apis.responses",
+        "isExtraImport": true,
+        "detail": "core.apis.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "GradeEnum",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "AssignmentStateEnum",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "GradeEnum",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "AssignmentStateEnum",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "GradeEnum",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "AssignmentStateEnum",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "GradeEnum",
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "isExtraImport": true,
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "core.models.teachers",
+        "description": "core.models.teachers",
+        "isExtraImport": true,
+        "detail": "core.models.teachers",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "core.models.teachers",
+        "description": "core.models.teachers",
+        "isExtraImport": true,
+        "detail": "core.models.teachers",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "core.models.teachers",
+        "description": "core.models.teachers",
+        "isExtraImport": true,
+        "detail": "core.models.teachers",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "core.models.teachers",
+        "description": "core.models.teachers",
+        "isExtraImport": true,
+        "detail": "core.models.teachers",
+        "documentation": {}
+    },
+    {
+        "label": "Schema",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "EXCLUDE",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "post_load",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyAutoSchema",
+        "importPath": "marshmallow_sqlalchemy",
+        "description": "marshmallow_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "marshmallow_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "auto_field",
+        "importPath": "marshmallow_sqlalchemy",
+        "description": "marshmallow_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "marshmallow_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "marshmallow_enum",
+        "description": "marshmallow_enum",
+        "isExtraImport": true,
+        "detail": "marshmallow_enum",
+        "documentation": {}
+    },
+    {
+        "label": "GeneralObject",
+        "importPath": "core.libs.helpers",
+        "description": "core.libs.helpers",
+        "isExtraImport": true,
+        "detail": "core.libs.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "assertions",
+        "importPath": "core.libs",
+        "description": "core.libs",
+        "isExtraImport": true,
+        "detail": "core.libs",
+        "documentation": {}
+    },
+    {
+        "label": "helpers",
+        "importPath": "core.libs",
+        "description": "core.libs",
+        "isExtraImport": true,
+        "detail": "core.libs",
+        "documentation": {}
+    },
+    {
+        "label": "assertions",
+        "importPath": "core.libs",
+        "description": "core.libs",
+        "isExtraImport": true,
+        "detail": "core.libs",
+        "documentation": {}
+    },
+    {
+        "label": "helpers",
+        "importPath": "core.libs",
+        "description": "core.libs",
+        "isExtraImport": true,
+        "detail": "core.libs",
+        "documentation": {}
+    },
+    {
+        "label": "helpers",
+        "importPath": "core.libs",
+        "description": "core.libs",
+        "isExtraImport": true,
+        "detail": "core.libs",
+        "documentation": {}
+    },
+    {
+        "label": "helpers",
+        "importPath": "core.libs",
+        "description": "core.libs",
+        "isExtraImport": true,
+        "detail": "core.libs",
+        "documentation": {}
+    },
+    {
+        "label": "helpers",
+        "importPath": "core.libs",
+        "description": "core.libs",
+        "isExtraImport": true,
+        "detail": "core.libs",
+        "documentation": {}
+    },
+    {
+        "label": "helpers",
+        "importPath": "core.libs",
+        "description": "core.libs",
+        "isExtraImport": true,
+        "detail": "core.libs",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "AuthPrincipal",
+        "importPath": "core.apis.decorators",
+        "description": "core.apis.decorators",
+        "isExtraImport": true,
+        "detail": "core.apis.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "AuthPrincipal",
+        "importPath": "core.apis.decorators",
+        "description": "core.apis.decorators",
+        "isExtraImport": true,
+        "detail": "core.apis.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "core.models.users",
+        "description": "core.models.users",
+        "isExtraImport": true,
+        "detail": "core.models.users",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "core.models.users",
+        "description": "core.models.users",
+        "isExtraImport": true,
+        "detail": "core.models.users",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "core.models.users",
+        "description": "core.models.users",
+        "isExtraImport": true,
+        "detail": "core.models.users",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "core.models.students",
+        "description": "core.models.students",
+        "isExtraImport": true,
+        "detail": "core.models.students",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "core.models.students",
+        "description": "core.models.students",
+        "isExtraImport": true,
+        "detail": "core.models.students",
+        "documentation": {}
+    },
+    {
+        "label": "Principal",
+        "importPath": "core.models.principals",
+        "description": "core.models.principals",
+        "isExtraImport": true,
+        "detail": "core.models.principals",
+        "documentation": {}
+    },
+    {
+        "label": "with_statement",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy.types",
+        "description": "sqlalchemy.types",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.types",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "student_assignments_resources",
+        "importPath": "core.apis.assignments",
+        "description": "core.apis.assignments",
+        "isExtraImport": true,
+        "detail": "core.apis.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "teacher_assignments_resources",
+        "importPath": "core.apis.assignments",
+        "description": "core.apis.assignments",
+        "isExtraImport": true,
+        "detail": "core.apis.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "principal_assignments_resources",
+        "importPath": "core.apis.assignments",
+        "description": "core.apis.assignments",
+        "isExtraImport": true,
+        "detail": "core.apis.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "FyleError",
+        "importPath": "core.libs.exceptions",
+        "description": "core.libs.exceptions",
+        "isExtraImport": true,
+        "detail": "core.libs.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "tests",
+        "description": "tests",
+        "isExtraImport": true,
+        "detail": "tests",
+        "documentation": {}
+    },
+    {
+        "label": "list_assignments",
+        "kind": 2,
+        "importPath": "core.apis.assignments.principal",
+        "description": "core.apis.assignments.principal",
+        "peekOfCode": "def list_assignments(p):\n    \"\"\"Returns list of assignments\"\"\"\n    students_assignments = Assignment.get_assignments_principal()\n    students_assignments_dump = AssignmentSchema().dump(students_assignments, many=True)\n    return APIResponse.respond(data=students_assignments_dump)\n@principal_assignments_resources.route('/teachers', methods=['GET'], strict_slashes=False)\n@decorators.authenticate_principal\ndef list_teacher(p):\n    \"\"\"Returns list of teacher\"\"\"\n    teacher = Teacher.get_teacher()",
+        "detail": "core.apis.assignments.principal",
+        "documentation": {}
+    },
+    {
+        "label": "list_teacher",
+        "kind": 2,
+        "importPath": "core.apis.assignments.principal",
+        "description": "core.apis.assignments.principal",
+        "peekOfCode": "def list_teacher(p):\n    \"\"\"Returns list of teacher\"\"\"\n    teacher = Teacher.get_teacher()\n    teacher_dump = TeacherSchema().dump(teacher, many=True)\n    return APIResponse.respond(data=teacher_dump)\n@principal_assignments_resources.route('/assignments/grade', methods=['POST'], strict_slashes=False)\n@decorators.accept_payload\n@decorators.authenticate_principal\ndef grade_assignment(p, incoming_payload):\n    \"\"\"Grade an assignment (Principal)\"\"\"",
+        "detail": "core.apis.assignments.principal",
+        "documentation": {}
+    },
+    {
+        "label": "grade_assignment",
+        "kind": 2,
+        "importPath": "core.apis.assignments.principal",
+        "description": "core.apis.assignments.principal",
+        "peekOfCode": "def grade_assignment(p, incoming_payload):\n    \"\"\"Grade an assignment (Principal)\"\"\"\n    grade_assignment_payload = AssignmentGradeSchema().load(incoming_payload)\n    graded_assignment = Assignment.mark_grade(\n    _id=grade_assignment_payload.id,\n    grade=grade_assignment_payload.grade,\n    auth_principal=p\n    )\n    db.session.commit()\n    graded_assignment_dump = AssignmentSchema().dump(graded_assignment)",
+        "detail": "core.apis.assignments.principal",
+        "documentation": {}
+    },
+    {
+        "label": "principal_assignments_resources",
+        "kind": 5,
+        "importPath": "core.apis.assignments.principal",
+        "description": "core.apis.assignments.principal",
+        "peekOfCode": "principal_assignments_resources = Blueprint('principal_assignments_resources', __name__)\n@principal_assignments_resources.route('/assignments', methods=['GET'], strict_slashes=False)\n@decorators.authenticate_principal\ndef list_assignments(p):\n    \"\"\"Returns list of assignments\"\"\"\n    students_assignments = Assignment.get_assignments_principal()\n    students_assignments_dump = AssignmentSchema().dump(students_assignments, many=True)\n    return APIResponse.respond(data=students_assignments_dump)\n@principal_assignments_resources.route('/teachers', methods=['GET'], strict_slashes=False)\n@decorators.authenticate_principal",
+        "detail": "core.apis.assignments.principal",
+        "documentation": {}
+    },
+    {
+        "label": "AssignmentSchema",
+        "kind": 6,
+        "importPath": "core.apis.assignments.schema",
+        "description": "core.apis.assignments.schema",
+        "peekOfCode": "class AssignmentSchema(SQLAlchemyAutoSchema):\n    class Meta:\n        model = Assignment\n        unknown = EXCLUDE\n    id = auto_field(required=False, allow_none=True)\n    content = auto_field()\n    created_at = auto_field(dump_only=True)\n    updated_at = auto_field(dump_only=True)\n    teacher_id = auto_field(dump_only=True)\n    student_id = auto_field(dump_only=True)",
+        "detail": "core.apis.assignments.schema",
+        "documentation": {}
+    },
+    {
+        "label": "AssignmentSubmitSchema",
+        "kind": 6,
+        "importPath": "core.apis.assignments.schema",
+        "description": "core.apis.assignments.schema",
+        "peekOfCode": "class AssignmentSubmitSchema(Schema):\n    class Meta:\n        unknown = EXCLUDE\n    id = fields.Integer(required=True, allow_none=False)\n    teacher_id = fields.Integer(required=True, allow_none=False)\n    @post_load\n    def initiate_class(self, data_dict, many, partial):\n        # pylint: disable=unused-argument,no-self-use\n        return GeneralObject(**data_dict)\nclass AssignmentGradeSchema(Schema):",
+        "detail": "core.apis.assignments.schema",
+        "documentation": {}
+    },
+    {
+        "label": "AssignmentGradeSchema",
+        "kind": 6,
+        "importPath": "core.apis.assignments.schema",
+        "description": "core.apis.assignments.schema",
+        "peekOfCode": "class AssignmentGradeSchema(Schema):\n    class Meta:\n        unknown = EXCLUDE\n    id = fields.Integer(required=True, allow_none=False)\n    grade = EnumField(GradeEnum, required=True, allow_none=False)\n    @post_load\n    def initiate_class(self, data_dict, many, partial):\n        # pylint: disable=unused-argument,no-self-use\n        return GeneralObject(**data_dict)\nclass TeacherSchema(SQLAlchemyAutoSchema):",
+        "detail": "core.apis.assignments.schema",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherSchema",
+        "kind": 6,
+        "importPath": "core.apis.assignments.schema",
+        "description": "core.apis.assignments.schema",
+        "peekOfCode": "class TeacherSchema(SQLAlchemyAutoSchema):\n    class Meta:\n        model=Teacher\n        unknown=EXCLUDE\n    id=auto_field(required=False, allow_none=True)\n    created_at=auto_field(dump_only=True)\n    updated_at=auto_field(dump_only=True)\n    user_id=auto_field(dump_only=True)",
+        "detail": "core.apis.assignments.schema",
+        "documentation": {}
+    },
+    {
+        "label": "list_assignments",
+        "kind": 2,
+        "importPath": "core.apis.assignments.student",
+        "description": "core.apis.assignments.student",
+        "peekOfCode": "def list_assignments(p):\n    \"\"\"Returns list of assignments\"\"\"\n    students_assignments = Assignment.get_assignments_by_student(p.student_id)\n    students_assignments_dump = AssignmentSchema().dump(students_assignments, many=True)\n    return APIResponse.respond(data=students_assignments_dump)\n@student_assignments_resources.route('/assignments', methods=['POST'], strict_slashes=False)\n@decorators.accept_payload\n@decorators.authenticate_principal\ndef upsert_assignment(p, incoming_payload):\n    \"\"\"Create or Edit an assignment\"\"\"",
+        "detail": "core.apis.assignments.student",
+        "documentation": {}
+    },
+    {
+        "label": "upsert_assignment",
+        "kind": 2,
+        "importPath": "core.apis.assignments.student",
+        "description": "core.apis.assignments.student",
+        "peekOfCode": "def upsert_assignment(p, incoming_payload):\n    \"\"\"Create or Edit an assignment\"\"\"\n    assignment = AssignmentSchema().load(incoming_payload)\n    assignment.student_id = p.student_id\n    upserted_assignment = Assignment.upsert(assignment)\n    db.session.commit()\n    upserted_assignment_dump = AssignmentSchema().dump(upserted_assignment)\n    return APIResponse.respond(data=upserted_assignment_dump)\n@student_assignments_resources.route('/assignments/submit', methods=['POST'], strict_slashes=False)\n@decorators.accept_payload",
+        "detail": "core.apis.assignments.student",
+        "documentation": {}
+    },
+    {
+        "label": "submit_assignment",
+        "kind": 2,
+        "importPath": "core.apis.assignments.student",
+        "description": "core.apis.assignments.student",
+        "peekOfCode": "def submit_assignment(p, incoming_payload):\n    \"\"\"Submit an assignment\"\"\"\n    submit_assignment_payload = AssignmentSubmitSchema().load(incoming_payload)\n    submitted_assignment = Assignment.submit(\n        _id=submit_assignment_payload.id,\n        teacher_id=submit_assignment_payload.teacher_id,\n        auth_principal=p\n    )\n    db.session.commit()\n    submitted_assignment_dump = AssignmentSchema().dump(submitted_assignment)",
+        "detail": "core.apis.assignments.student",
+        "documentation": {}
+    },
+    {
+        "label": "student_assignments_resources",
+        "kind": 5,
+        "importPath": "core.apis.assignments.student",
+        "description": "core.apis.assignments.student",
+        "peekOfCode": "student_assignments_resources = Blueprint('student_assignments_resources', __name__)\n@student_assignments_resources.route('/assignments', methods=['GET'], strict_slashes=False)\n@decorators.authenticate_principal\ndef list_assignments(p):\n    \"\"\"Returns list of assignments\"\"\"\n    students_assignments = Assignment.get_assignments_by_student(p.student_id)\n    students_assignments_dump = AssignmentSchema().dump(students_assignments, many=True)\n    return APIResponse.respond(data=students_assignments_dump)\n@student_assignments_resources.route('/assignments', methods=['POST'], strict_slashes=False)\n@decorators.accept_payload",
+        "detail": "core.apis.assignments.student",
+        "documentation": {}
+    },
+    {
+        "label": "list_assignments",
+        "kind": 2,
+        "importPath": "core.apis.assignments.teacher",
+        "description": "core.apis.assignments.teacher",
+        "peekOfCode": "def list_assignments(p):\n    \"\"\"Returns list of assignments\"\"\"\n    teachers_assignments = Assignment.get_assignments_by_teacher(p.teacher_id)\n    teachers_assignments_dump = AssignmentSchema().dump(teachers_assignments, many=True)\n    return APIResponse.respond(data=teachers_assignments_dump)\n@teacher_assignments_resources.route('/assignments/grade', methods=['POST'], strict_slashes=False)\n@decorators.accept_payload\n@decorators.authenticate_principal\ndef grade_assignment(p, incoming_payload):\n    \"\"\"Grade an assignment\"\"\"",
+        "detail": "core.apis.assignments.teacher",
+        "documentation": {}
+    },
+    {
+        "label": "grade_assignment",
+        "kind": 2,
+        "importPath": "core.apis.assignments.teacher",
+        "description": "core.apis.assignments.teacher",
+        "peekOfCode": "def grade_assignment(p, incoming_payload):\n    \"\"\"Grade an assignment\"\"\"\n    grade_assignment_payload = AssignmentGradeSchema().load(incoming_payload)\n    graded_assignment = Assignment.mark_grade(\n        _id=grade_assignment_payload.id,\n        grade=grade_assignment_payload.grade,\n        auth_principal=p\n    )\n    db.session.commit()\n    graded_assignment_dump = AssignmentSchema().dump(graded_assignment)",
+        "detail": "core.apis.assignments.teacher",
+        "documentation": {}
+    },
+    {
+        "label": "teacher_assignments_resources",
+        "kind": 5,
+        "importPath": "core.apis.assignments.teacher",
+        "description": "core.apis.assignments.teacher",
+        "peekOfCode": "teacher_assignments_resources = Blueprint('teacher_assignments_resources', __name__)\n@teacher_assignments_resources.route('/assignments', methods=['GET'], strict_slashes=False)\n@decorators.authenticate_principal\ndef list_assignments(p):\n    \"\"\"Returns list of assignments\"\"\"\n    teachers_assignments = Assignment.get_assignments_by_teacher(p.teacher_id)\n    teachers_assignments_dump = AssignmentSchema().dump(teachers_assignments, many=True)\n    return APIResponse.respond(data=teachers_assignments_dump)\n@teacher_assignments_resources.route('/assignments/grade', methods=['POST'], strict_slashes=False)\n@decorators.accept_payload",
+        "detail": "core.apis.assignments.teacher",
+        "documentation": {}
+    },
+    {
+        "label": "AuthPrincipal",
+        "kind": 6,
+        "importPath": "core.apis.decorators",
+        "description": "core.apis.decorators",
+        "peekOfCode": "class AuthPrincipal:\n    def __init__(self, user_id, student_id=None, teacher_id=None, principal_id=None):\n        self.user_id = user_id\n        self.student_id = student_id\n        self.teacher_id = teacher_id\n        self.principal_id = principal_id\ndef accept_payload(func):\n    @wraps(func)\n    def wrapper(*args, **kwargs):\n        incoming_payload = request.json",
+        "detail": "core.apis.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "accept_payload",
+        "kind": 2,
+        "importPath": "core.apis.decorators",
+        "description": "core.apis.decorators",
+        "peekOfCode": "def accept_payload(func):\n    @wraps(func)\n    def wrapper(*args, **kwargs):\n        incoming_payload = request.json\n        return func(incoming_payload, *args, **kwargs)\n    return wrapper\ndef authenticate_principal(func):\n    @wraps(func)\n    def wrapper(*args, **kwargs):\n        p_str = request.headers.get('X-Principal')",
+        "detail": "core.apis.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_principal",
+        "kind": 2,
+        "importPath": "core.apis.decorators",
+        "description": "core.apis.decorators",
+        "peekOfCode": "def authenticate_principal(func):\n    @wraps(func)\n    def wrapper(*args, **kwargs):\n        p_str = request.headers.get('X-Principal')\n        assertions.assert_auth(p_str is not None, 'principal not found')\n        p_dict = json.loads(p_str)\n        p = AuthPrincipal(\n            user_id=p_dict['user_id'],\n            student_id=p_dict.get('student_id'),\n            teacher_id=p_dict.get('teacher_id'),",
+        "detail": "core.apis.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "APIResponse",
+        "kind": 6,
+        "importPath": "core.apis.responses",
+        "description": "core.apis.responses",
+        "peekOfCode": "class APIResponse(Response):\n    @classmethod\n    def respond(cls, data):\n        return make_response(jsonify(data=data))",
+        "detail": "core.apis.responses",
+        "documentation": {}
+    },
+    {
+        "label": "base_assert",
+        "kind": 2,
+        "importPath": "core.libs.assertions",
+        "description": "core.libs.assertions",
+        "peekOfCode": "def base_assert(error_code, msg):\n    raise FyleError(status_code=error_code, message=msg)\ndef assert_auth(cond, msg='UNAUTHORIZED'):\n    if cond is False:\n        base_assert(401, msg)\ndef assert_true(cond, msg='FORBIDDEN'):\n    if cond is False:\n        base_assert(403, msg)\ndef assert_valid(cond, msg='BAD_REQUEST'):\n    if cond is False:",
+        "detail": "core.libs.assertions",
+        "documentation": {}
+    },
+    {
+        "label": "assert_auth",
+        "kind": 2,
+        "importPath": "core.libs.assertions",
+        "description": "core.libs.assertions",
+        "peekOfCode": "def assert_auth(cond, msg='UNAUTHORIZED'):\n    if cond is False:\n        base_assert(401, msg)\ndef assert_true(cond, msg='FORBIDDEN'):\n    if cond is False:\n        base_assert(403, msg)\ndef assert_valid(cond, msg='BAD_REQUEST'):\n    if cond is False:\n        base_assert(400, msg)\ndef assert_found(_obj, msg='NOT_FOUND'):",
+        "detail": "core.libs.assertions",
+        "documentation": {}
+    },
+    {
+        "label": "assert_true",
+        "kind": 2,
+        "importPath": "core.libs.assertions",
+        "description": "core.libs.assertions",
+        "peekOfCode": "def assert_true(cond, msg='FORBIDDEN'):\n    if cond is False:\n        base_assert(403, msg)\ndef assert_valid(cond, msg='BAD_REQUEST'):\n    if cond is False:\n        base_assert(400, msg)\ndef assert_found(_obj, msg='NOT_FOUND'):\n    if _obj is None:\n        base_assert(404, msg)",
+        "detail": "core.libs.assertions",
+        "documentation": {}
+    },
+    {
+        "label": "assert_valid",
+        "kind": 2,
+        "importPath": "core.libs.assertions",
+        "description": "core.libs.assertions",
+        "peekOfCode": "def assert_valid(cond, msg='BAD_REQUEST'):\n    if cond is False:\n        base_assert(400, msg)\ndef assert_found(_obj, msg='NOT_FOUND'):\n    if _obj is None:\n        base_assert(404, msg)",
+        "detail": "core.libs.assertions",
+        "documentation": {}
+    },
+    {
+        "label": "assert_found",
+        "kind": 2,
+        "importPath": "core.libs.assertions",
+        "description": "core.libs.assertions",
+        "peekOfCode": "def assert_found(_obj, msg='NOT_FOUND'):\n    if _obj is None:\n        base_assert(404, msg)",
+        "detail": "core.libs.assertions",
+        "documentation": {}
+    },
+    {
+        "label": "FyleError",
+        "kind": 6,
+        "importPath": "core.libs.exceptions",
+        "description": "core.libs.exceptions",
+        "peekOfCode": "class FyleError(Exception):\n    status_code = 400\n    def __init__(self, status_code, message):\n        Exception.__init__(self)\n        self.message = message\n        self.status_code = status_code\n    def to_dict(self):\n        res = dict()\n        res['message'] = self.message\n        return res",
+        "detail": "core.libs.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "GeneralObject",
+        "kind": 6,
+        "importPath": "core.libs.helpers",
+        "description": "core.libs.helpers",
+        "peekOfCode": "class GeneralObject:\n    def __init__(self, **kwargs):\n        for key, value in kwargs.items():\n            setattr(self, key, value)\ndef get_utc_now():\n    return datetime.utcnow()",
+        "detail": "core.libs.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "get_utc_now",
+        "kind": 2,
+        "importPath": "core.libs.helpers",
+        "description": "core.libs.helpers",
+        "peekOfCode": "def get_utc_now():\n    return datetime.utcnow()",
+        "detail": "core.libs.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP_WITH_TIMEZONE_FORMAT",
+        "kind": 5,
+        "importPath": "core.libs.helpers",
+        "description": "core.libs.helpers",
+        "peekOfCode": "TIMESTAMP_WITH_TIMEZONE_FORMAT = '%Y-%m-%dT%H:%M:%S.%f%z'\nclass GeneralObject:\n    def __init__(self, **kwargs):\n        for key, value in kwargs.items():\n            setattr(self, key, value)\ndef get_utc_now():\n    return datetime.utcnow()",
+        "detail": "core.libs.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "core.migrations.versions.2087a1db8595_assignments",
+        "description": "core.migrations.versions.2087a1db8595_assignments",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('students',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.ForeignKeyConstraint(['user_id'], ['users.id'], ),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "core.migrations.versions.2087a1db8595_assignments",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "core.migrations.versions.2087a1db8595_assignments",
+        "description": "core.migrations.versions.2087a1db8595_assignments",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('assignments')\n    op.drop_table('teachers')\n    op.drop_table('students')\n    # ### end Alembic commands ###",
+        "detail": "core.migrations.versions.2087a1db8595_assignments",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "core.migrations.versions.2087a1db8595_assignments",
+        "description": "core.migrations.versions.2087a1db8595_assignments",
+        "peekOfCode": "revision = '2087a1db8595'\ndown_revision = '4078b3b57e24'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('students',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),",
+        "detail": "core.migrations.versions.2087a1db8595_assignments",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "core.migrations.versions.2087a1db8595_assignments",
+        "description": "core.migrations.versions.2087a1db8595_assignments",
+        "peekOfCode": "down_revision = '4078b3b57e24'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('students',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),",
+        "detail": "core.migrations.versions.2087a1db8595_assignments",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "core.migrations.versions.2087a1db8595_assignments",
+        "description": "core.migrations.versions.2087a1db8595_assignments",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('students',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.ForeignKeyConstraint(['user_id'], ['users.id'], ),",
+        "detail": "core.migrations.versions.2087a1db8595_assignments",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "core.migrations.versions.2087a1db8595_assignments",
+        "description": "core.migrations.versions.2087a1db8595_assignments",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('students',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.ForeignKeyConstraint(['user_id'], ['users.id'], ),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "core.migrations.versions.2087a1db8595_assignments",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "description": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('username', sa.String(length=80), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('email'),",
+        "detail": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "description": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('users')\n    # ### end Alembic commands ###",
+        "detail": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "description": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "peekOfCode": "revision = '4078b3b57e24'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('username', sa.String(length=80), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),",
+        "detail": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "description": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('username', sa.String(length=80), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),",
+        "detail": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "description": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('username', sa.String(length=80), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),",
+        "detail": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "description": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('username', sa.String(length=80), nullable=False),\n    sa.Column('email', sa.String(length=120), nullable=False),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.PrimaryKeyConstraint('id'),",
+        "detail": "core.migrations.versions.4078b3b57e24_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "core.migrations.versions.52a401750a76_principals",
+        "description": "core.migrations.versions.52a401750a76_principals",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('principals',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.ForeignKeyConstraint(['user_id'], ['users.id'], ),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "core.migrations.versions.52a401750a76_principals",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "core.migrations.versions.52a401750a76_principals",
+        "description": "core.migrations.versions.52a401750a76_principals",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('principals')\n    # ### end Alembic commands ###",
+        "detail": "core.migrations.versions.52a401750a76_principals",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "core.migrations.versions.52a401750a76_principals",
+        "description": "core.migrations.versions.52a401750a76_principals",
+        "peekOfCode": "revision = '52a401750a76'\ndown_revision = '2087a1db8595'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('principals',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),",
+        "detail": "core.migrations.versions.52a401750a76_principals",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "core.migrations.versions.52a401750a76_principals",
+        "description": "core.migrations.versions.52a401750a76_principals",
+        "peekOfCode": "down_revision = '2087a1db8595'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('principals',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),",
+        "detail": "core.migrations.versions.52a401750a76_principals",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "core.migrations.versions.52a401750a76_principals",
+        "description": "core.migrations.versions.52a401750a76_principals",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('principals',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.ForeignKeyConstraint(['user_id'], ['users.id'], ),",
+        "detail": "core.migrations.versions.52a401750a76_principals",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "core.migrations.versions.52a401750a76_principals",
+        "description": "core.migrations.versions.52a401750a76_principals",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('principals',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.Column('updated_at', sa.TIMESTAMP(timezone=True), nullable=False),\n    sa.ForeignKeyConstraint(['user_id'], ['users.id'], ),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "core.migrations.versions.52a401750a76_principals",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "core.migrations.env",
+        "description": "core.migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "core.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "core.migrations.env",
+        "description": "core.migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):",
+        "detail": "core.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "core.migrations.env",
+        "description": "core.migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nconfig.set_main_option(",
+        "detail": "core.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "core.migrations.env",
+        "description": "core.migrations.env",
+        "peekOfCode": "logger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nconfig.set_main_option(\n    'sqlalchemy.url',\n    str(current_app.extensions['migrate'].db.get_engine().url).replace(\n        '%', '%%'))\ntarget_metadata = current_app.extensions['migrate'].db.metadata",
+        "detail": "core.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "core.migrations.env",
+        "description": "core.migrations.env",
+        "peekOfCode": "target_metadata = current_app.extensions['migrate'].db.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "core.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "GradeEnum",
+        "kind": 6,
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "peekOfCode": "class GradeEnum(str, enum.Enum):\n    A = 'A'\n    B = 'B'\n    C = 'C'\n    D = 'D'\nclass AssignmentStateEnum(str, enum.Enum):\n    DRAFT = 'DRAFT'\n    SUBMITTED = 'SUBMITTED'\n    GRADED = 'GRADED'\nclass Assignment(db.Model):",
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "AssignmentStateEnum",
+        "kind": 6,
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "peekOfCode": "class AssignmentStateEnum(str, enum.Enum):\n    DRAFT = 'DRAFT'\n    SUBMITTED = 'SUBMITTED'\n    GRADED = 'GRADED'\nclass Assignment(db.Model):\n    __tablename__ = 'assignments'\n    id = db.Column(db.Integer, db.Sequence('assignments_id_seq'), primary_key=True)\n    student_id = db.Column(db.Integer, db.ForeignKey(Student.id), nullable=False)\n    teacher_id = db.Column(db.Integer, db.ForeignKey(Teacher.id), nullable=True)\n    content = db.Column(db.Text)",
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "kind": 6,
+        "importPath": "core.models.assignments",
+        "description": "core.models.assignments",
+        "peekOfCode": "class Assignment(db.Model):\n    __tablename__ = 'assignments'\n    id = db.Column(db.Integer, db.Sequence('assignments_id_seq'), primary_key=True)\n    student_id = db.Column(db.Integer, db.ForeignKey(Student.id), nullable=False)\n    teacher_id = db.Column(db.Integer, db.ForeignKey(Teacher.id), nullable=True)\n    content = db.Column(db.Text)\n    grade = db.Column(BaseEnum(GradeEnum))\n    state = db.Column(BaseEnum(AssignmentStateEnum), default=AssignmentStateEnum.DRAFT, nullable=False)\n    created_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False)\n    updated_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False, onupdate=helpers.get_utc_now)",
+        "detail": "core.models.assignments",
+        "documentation": {}
+    },
+    {
+        "label": "Principal",
+        "kind": 6,
+        "importPath": "core.models.principals",
+        "description": "core.models.principals",
+        "peekOfCode": "class Principal(db.Model):\n    __tablename__ = 'principals'\n    id = db.Column(db.Integer, db.Sequence('principals_id_seq'), primary_key=True)\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id'))\n    created_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False)\n    updated_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False, onupdate=helpers.get_utc_now)\n    def __repr__(self):\n        return '<Principal %r>' % self.id",
+        "detail": "core.models.principals",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "core.models.students",
+        "description": "core.models.students",
+        "peekOfCode": "class Student(db.Model):\n    __tablename__ = 'students'\n    id = db.Column(db.Integer, db.Sequence('students_id_seq'), primary_key=True)\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id'))\n    created_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False)\n    updated_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False, onupdate=helpers.get_utc_now)\n    def __repr__(self):\n        return '<Student %r>' % self.id",
+        "detail": "core.models.students",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "kind": 6,
+        "importPath": "core.models.teachers",
+        "description": "core.models.teachers",
+        "peekOfCode": "class Teacher(db.Model):\n    __tablename__ = 'teachers'\n    id = db.Column(db.Integer, db.Sequence('teachers_id_seq'), primary_key=True)\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id'))\n    created_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False)\n    updated_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False, onupdate=helpers.get_utc_now)\n    def __repr__(self):\n        return '<Teacher %r>' % self.id\n    @classmethod\n    def filter(cls, *criterion):",
+        "detail": "core.models.teachers",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "core.models.users",
+        "description": "core.models.users",
+        "peekOfCode": "class User(db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer, db.Sequence('users_id_seq'), primary_key=True)\n    username = db.Column(db.String(80), unique=True, nullable=False)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    created_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False)\n    updated_at = db.Column(db.TIMESTAMP(timezone=True), default=helpers.get_utc_now, nullable=False, onupdate=helpers.get_utc_now)\n    def __repr__(self):\n        return '<User %r>' % self.username\n    @classmethod",
+        "detail": "core.models.users",
+        "documentation": {}
+    },
+    {
+        "label": "ready",
+        "kind": 2,
+        "importPath": "core.server",
+        "description": "core.server",
+        "peekOfCode": "def ready():\n    response = jsonify({\n        'status': 'ready',\n        'time': helpers.get_utc_now()\n    })\n    return response\n@app.errorhandler(Exception)\ndef handle_error(err):\n    if isinstance(err, FyleError):\n        return jsonify(",
+        "detail": "core.server",
+        "documentation": {}
+    },
+    {
+        "label": "handle_error",
+        "kind": 2,
+        "importPath": "core.server",
+        "description": "core.server",
+        "peekOfCode": "def handle_error(err):\n    if isinstance(err, FyleError):\n        return jsonify(\n            error=err.__class__.__name__, message=err.message\n        ), err.status_code\n    elif isinstance(err, ValidationError):\n        return jsonify(\n            error=err.__class__.__name__, message=err.messages\n        ), 400\n    elif isinstance(err, IntegrityError):",
+        "detail": "core.server",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "create_n_graded_assignments_for_teacher",
+        "kind": 2,
+        "importPath": "tests.SQL.sql_test",
+        "description": "tests.SQL.sql_test",
+        "peekOfCode": "def create_n_graded_assignments_for_teacher(number: int = 0, teacher_id: int = 1) -> int:\n    \"\"\"\n    Creates 'n' graded assignments for a specified teacher and returns the count of assignments with grade 'A'.\n    Parameters:\n    - number (int): The number of assignments to be created.\n    - teacher_id (int): The ID of the teacher for whom the assignments are created.\n    Returns:\n    - int: Count of assignments with grade 'A'.\n    \"\"\"\n    # Count the existing assignments with grade 'A' for the specified teacher",
+        "detail": "tests.SQL.sql_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_assignments_in_graded_state_for_each_student",
+        "kind": 2,
+        "importPath": "tests.SQL.sql_test",
+        "description": "tests.SQL.sql_test",
+        "peekOfCode": "def test_get_assignments_in_graded_state_for_each_student():\n    \"\"\"Test to get graded assignments for each student\"\"\"\n    # Find all the assignments for student 1 and change its state to 'GRADED'\n    submitted_assignments: Assignment = Assignment.filter(Assignment.student_id == 1)\n    # Iterate over each assignment and update its state\n    for assignment in submitted_assignments:\n        assignment.state = AssignmentStateEnum.GRADED  # Or any other desired state\n    # Flush the changes to the database session\n    db.session.flush()\n    # Commit the changes to the database",
+        "detail": "tests.SQL.sql_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_grade_A_assignments_for_teacher_with_max_grading",
+        "kind": 2,
+        "importPath": "tests.SQL.sql_test",
+        "description": "tests.SQL.sql_test",
+        "peekOfCode": "def test_get_grade_A_assignments_for_teacher_with_max_grading():\n    \"\"\"Test to get count of grade A assignments for teacher which has graded maximum assignments\"\"\"\n    # Read the SQL query from a file\n    with open('tests/SQL/count_grade_A_assignments_by_teacher_with_max_grading.sql', encoding='utf8') as fo:\n        sql = fo.read()\n    # Create and grade 5 assignments for the default teacher (teacher_id=1)\n    grade_a_count_1 = create_n_graded_assignments_for_teacher(5)\n    # Execute the SQL query and check if the count matches the created assignments\n    sql_result = db.session.execute(text(sql)).fetchall()\n    assert grade_a_count_1 == sql_result[0][0]",
+        "detail": "tests.SQL.sql_test",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def client():\n    return app.test_client()\n@pytest.fixture\ndef h_student_1():\n    headers = {\n        'X-Principal': json.dumps({\n            'student_id': 1,\n            'user_id': 1\n        })\n    }",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "h_student_1",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def h_student_1():\n    headers = {\n        'X-Principal': json.dumps({\n            'student_id': 1,\n            'user_id': 1\n        })\n    }\n    return headers\n@pytest.fixture\ndef h_student_2():",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "h_student_2",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def h_student_2():\n    headers = {\n        'X-Principal': json.dumps({\n            'student_id': 2,\n            'user_id': 2\n        })\n    }\n    return headers\n@pytest.fixture\ndef h_teacher_1():",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "h_teacher_1",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def h_teacher_1():\n    headers = {\n        'X-Principal': json.dumps({\n            'teacher_id': 1,\n            'user_id': 3\n        })\n    }\n    return headers\n@pytest.fixture\ndef h_teacher_2():",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "h_teacher_2",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def h_teacher_2():\n    headers = {\n        'X-Principal': json.dumps({\n            'teacher_id': 2,\n            'user_id': 4\n        })\n    }\n    return headers\n@pytest.fixture\ndef h_principal():",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "h_principal",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def h_principal():\n    headers = {\n        'X-Principal': json.dumps({\n            'principal_id': 1,\n            'user_id': 5\n        })\n    }\n    return headers",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_teachers",
+        "kind": 2,
+        "importPath": "tests.principals_test",
+        "description": "tests.principals_test",
+        "peekOfCode": "def test_get_teachers(client, h_principal):\n    response = client.get(\n        '/principal/teachers',\n        headers=h_principal\n    )\n    assert response.status_code == 200\ndef test_get_assignments(client, h_principal):\n    response = client.get(\n        '/principal/assignments',\n        headers=h_principal",
+        "detail": "tests.principals_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_assignments",
+        "kind": 2,
+        "importPath": "tests.principals_test",
+        "description": "tests.principals_test",
+        "peekOfCode": "def test_get_assignments(client, h_principal):\n    response = client.get(\n        '/principal/assignments',\n        headers=h_principal\n    )\n    assert response.status_code == 200\n    data = response.json['data']\n    for assignment in data:\n        assert assignment['state'] in [AssignmentStateEnum.SUBMITTED, AssignmentStateEnum.GRADED]\ndef test_grade_assignment_draft_assignment(client, h_principal):",
+        "detail": "tests.principals_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_grade_assignment_draft_assignment",
+        "kind": 2,
+        "importPath": "tests.principals_test",
+        "description": "tests.principals_test",
+        "peekOfCode": "def test_grade_assignment_draft_assignment(client, h_principal):\n    \"\"\"\n    failure case: If an assignment is in Draft state, it cannot be graded by principal\n    \"\"\"\n    response = client.post(\n        '/principal/assignments/grade',\n        json={\n            'id': 5,\n            'grade': GradeEnum.A.value\n        },",
+        "detail": "tests.principals_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_grade_assignment",
+        "kind": 2,
+        "importPath": "tests.principals_test",
+        "description": "tests.principals_test",
+        "peekOfCode": "def test_grade_assignment(client, h_principal):\n    response = client.post(\n        '/principal/assignments/grade',\n        json={\n            'id': 4,\n            'grade': GradeEnum.C.value\n        },\n        headers=h_principal\n    )\n    assert response.status_code == 200",
+        "detail": "tests.principals_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_regrade_assignment",
+        "kind": 2,
+        "importPath": "tests.principals_test",
+        "description": "tests.principals_test",
+        "peekOfCode": "def test_regrade_assignment(client, h_principal):\n    response = client.post(\n        '/principal/assignments/grade',\n        json={\n            'id': 4,\n            'grade': GradeEnum.B.value\n        },\n        headers=h_principal\n    )\n    assert response.status_code == 200",
+        "detail": "tests.principals_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_assignments_student_1",
+        "kind": 2,
+        "importPath": "tests.students_test",
+        "description": "tests.students_test",
+        "peekOfCode": "def test_get_assignments_student_1(client, h_student_1):\n    response = client.get(\n        '/student/assignments',\n        headers=h_student_1\n    )\n    assert response.status_code == 200\n    data = response.json['data']\n    for assignment in data:\n        assert assignment['student_id'] == 1\ndef test_get_assignments_student_2(client, h_student_2):",
+        "detail": "tests.students_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_assignments_student_2",
+        "kind": 2,
+        "importPath": "tests.students_test",
+        "description": "tests.students_test",
+        "peekOfCode": "def test_get_assignments_student_2(client, h_student_2):\n    response = client.get(\n        '/student/assignments',\n        headers=h_student_2\n    )\n    assert response.status_code == 200\n    data = response.json['data']\n    for assignment in data:\n        assert assignment['student_id'] == 2\ndef test_post_assignment_null_content(client, h_student_1):",
+        "detail": "tests.students_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_post_assignment_null_content",
+        "kind": 2,
+        "importPath": "tests.students_test",
+        "description": "tests.students_test",
+        "peekOfCode": "def test_post_assignment_null_content(client, h_student_1):\n    \"\"\"\n    failure case: content cannot be null\n    \"\"\"\n    response = client.post(\n        '/student/assignments',\n        headers=h_student_1,\n        json={\n            'content': None\n        })",
+        "detail": "tests.students_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_post_assignment_student_1",
+        "kind": 2,
+        "importPath": "tests.students_test",
+        "description": "tests.students_test",
+        "peekOfCode": "def test_post_assignment_student_1(client, h_student_1):\n    content = 'ABCD TESTPOST'\n    response = client.post(\n        '/student/assignments',\n        headers=h_student_1,\n        json={\n            'content': content\n        })\n    assert response.status_code == 200\n    data = response.json['data']",
+        "detail": "tests.students_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_submit_assignment_student_1",
+        "kind": 2,
+        "importPath": "tests.students_test",
+        "description": "tests.students_test",
+        "peekOfCode": "def test_submit_assignment_student_1(client, h_student_1):\n    response = client.post(\n        '/student/assignments/submit',\n        headers=h_student_1,\n        json={\n            'id': 2,\n            'teacher_id': 2\n        })\n    assert response.status_code == 200\n    data = response.json['data']",
+        "detail": "tests.students_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_assignment_resubmit_error",
+        "kind": 2,
+        "importPath": "tests.students_test",
+        "description": "tests.students_test",
+        "peekOfCode": "def test_assignment_resubmit_error(client, h_student_1):\n    response = client.post(\n        '/student/assignments/submit',\n        headers=h_student_1,\n        json={\n            'id': 2,\n            'teacher_id': 2\n        })\n    error_response = response.json\n    assert response.status_code == 400",
+        "detail": "tests.students_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_assignments_teacher_1",
+        "kind": 2,
+        "importPath": "tests.teachers_test",
+        "description": "tests.teachers_test",
+        "peekOfCode": "def test_get_assignments_teacher_1(client, h_teacher_1):\n    response = client.get(\n        '/teacher/assignments',\n        headers=h_teacher_1\n    )\n    assert response.status_code == 200\n    data = response.json['data']\n    for assignment in data:\n        assert assignment['teacher_id'] == 1\ndef test_get_assignments_teacher_2(client, h_teacher_2):",
+        "detail": "tests.teachers_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_assignments_teacher_2",
+        "kind": 2,
+        "importPath": "tests.teachers_test",
+        "description": "tests.teachers_test",
+        "peekOfCode": "def test_get_assignments_teacher_2(client, h_teacher_2):\n    response = client.get(\n        '/teacher/assignments',\n        headers=h_teacher_2\n    )\n    assert response.status_code == 200\n    data = response.json['data']\n    for assignment in data:\n        assert assignment['teacher_id'] == 2\n        assert assignment['state'] in ['SUBMITTED', 'GRADED']",
+        "detail": "tests.teachers_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_grade_assignment",
+        "kind": 2,
+        "importPath": "tests.teachers_test",
+        "description": "tests.teachers_test",
+        "peekOfCode": "def test_grade_assignment(client, h_teacher_1):\n    response = client.post(\n        '/teacher/assignments/grade',\n        headers=h_teacher_1,\n        json={\n            \"id\": 1,\n            \"grade\": GradeEnum.A\n        }\n    )\n    assert response.status_code == 200",
+        "detail": "tests.teachers_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_grade_assignment_cross",
+        "kind": 2,
+        "importPath": "tests.teachers_test",
+        "description": "tests.teachers_test",
+        "peekOfCode": "def test_grade_assignment_cross(client, h_teacher_2):\n    \"\"\"\n    failure case: assignment 1 was submitted to teacher 1 and not teacher 2\n    \"\"\"\n    response = client.post(\n        '/teacher/assignments/grade',\n        headers=h_teacher_2,\n        json={\n            \"id\": 1,\n            \"grade\": \"A\"",
+        "detail": "tests.teachers_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_grade_assignment_bad_grade",
+        "kind": 2,
+        "importPath": "tests.teachers_test",
+        "description": "tests.teachers_test",
+        "peekOfCode": "def test_grade_assignment_bad_grade(client, h_teacher_1):\n    \"\"\"\n    failure case: API should allow only grades available in enum\n    \"\"\"\n    response = client.post(\n        '/teacher/assignments/grade',\n        headers=h_teacher_1,\n        json={\n            \"id\": 1,\n            \"grade\": \"AB\"",
+        "detail": "tests.teachers_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_grade_assignment_bad_assignment",
+        "kind": 2,
+        "importPath": "tests.teachers_test",
+        "description": "tests.teachers_test",
+        "peekOfCode": "def test_grade_assignment_bad_assignment(client, h_teacher_1):\n    \"\"\"\n    failure case: If an assignment does not exists check and throw 404\n    \"\"\"\n    response = client.post(\n        '/teacher/assignments/grade',\n        headers=h_teacher_1,\n        json={\n            \"id\": 100000,\n            \"grade\": \"A\"",
+        "detail": "tests.teachers_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_grade_assignment_draft_assignment",
+        "kind": 2,
+        "importPath": "tests.teachers_test",
+        "description": "tests.teachers_test",
+        "peekOfCode": "def test_grade_assignment_draft_assignment(client, h_teacher_1):\n    \"\"\"\n    failure case: only a submitted assignment can be graded\n    \"\"\"\n    response = client.post(\n        '/teacher/assignments/grade',\n        headers=h_teacher_1\n        , json={\n            \"id\": 2,\n            \"grade\": \"A\"",
+        "detail": "tests.teachers_test",
+        "documentation": {}
+    },
+    {
+        "label": "post_fork",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def post_fork(server, worker):\n    server.log.info(\"Worker spawned (pid: %s)\", worker.pid)\ndef pre_fork(server, worker):\n    pass\ndef pre_exec(server):\n    server.log.info(\"Forked child, re-executing.\")\ndef when_ready(server):\n    server.log.info(\"Server is ready. Spawning workers\")\ndef worker_int(worker):\n    worker.log.info(\"worker received INT or QUIT signal\")",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "pre_fork",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def pre_fork(server, worker):\n    pass\ndef pre_exec(server):\n    server.log.info(\"Forked child, re-executing.\")\ndef when_ready(server):\n    server.log.info(\"Server is ready. Spawning workers\")\ndef worker_int(worker):\n    worker.log.info(\"worker received INT or QUIT signal\")\n    # get traceback info\n    import threading",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "pre_exec",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def pre_exec(server):\n    server.log.info(\"Forked child, re-executing.\")\ndef when_ready(server):\n    server.log.info(\"Server is ready. Spawning workers\")\ndef worker_int(worker):\n    worker.log.info(\"worker received INT or QUIT signal\")\n    # get traceback info\n    import threading\n    import sys\n    import traceback",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "when_ready",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def when_ready(server):\n    server.log.info(\"Server is ready. Spawning workers\")\ndef worker_int(worker):\n    worker.log.info(\"worker received INT or QUIT signal\")\n    # get traceback info\n    import threading\n    import sys\n    import traceback\n    id2name = dict([(th.ident, th.name) for th in threading.enumerate()])\n    code = []",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "worker_int",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def worker_int(worker):\n    worker.log.info(\"worker received INT or QUIT signal\")\n    # get traceback info\n    import threading\n    import sys\n    import traceback\n    id2name = dict([(th.ident, th.name) for th in threading.enumerate()])\n    code = []\n    for thread_id, stack in sys._current_frames().items():\n        code.append(\"\\n# Thread: %s(%d)\" % (id2name.get(thread_id, \"\"),",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "worker_abort",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def worker_abort(worker):\n    worker.log.info(\"worker received SIGABRT signal\")\ndef child_exit(server, worker):\n    server.log.info(\"server: child_exit is called\")\n    worker.log.info(\"worker: child_exit is called\")\ndef worker_exit(server, worker):\n    server.log.info(\"server: worker_exit is called\")\n    worker.log.info(\"worker: worker_exit is called\")\ndef nworkers_changed(server, new_value, old_value):\n    server.log.info(\"server: nworkers_changed is called with new_value: %s old_value: %s\", new_value, old_value)",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "child_exit",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def child_exit(server, worker):\n    server.log.info(\"server: child_exit is called\")\n    worker.log.info(\"worker: child_exit is called\")\ndef worker_exit(server, worker):\n    server.log.info(\"server: worker_exit is called\")\n    worker.log.info(\"worker: worker_exit is called\")\ndef nworkers_changed(server, new_value, old_value):\n    server.log.info(\"server: nworkers_changed is called with new_value: %s old_value: %s\", new_value, old_value)\ndef on_exit(server):\n    server.log.info(\"server: on_exit is called\")",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "worker_exit",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def worker_exit(server, worker):\n    server.log.info(\"server: worker_exit is called\")\n    worker.log.info(\"worker: worker_exit is called\")\ndef nworkers_changed(server, new_value, old_value):\n    server.log.info(\"server: nworkers_changed is called with new_value: %s old_value: %s\", new_value, old_value)\ndef on_exit(server):\n    server.log.info(\"server: on_exit is called\")",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "nworkers_changed",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def nworkers_changed(server, new_value, old_value):\n    server.log.info(\"server: nworkers_changed is called with new_value: %s old_value: %s\", new_value, old_value)\ndef on_exit(server):\n    server.log.info(\"server: on_exit is called\")",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "on_exit",
+        "kind": 2,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "def on_exit(server):\n    server.log.info(\"server: on_exit is called\")",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "proc_name",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "proc_name = 'fyle-interview-be'\nport_number = int(os.environ.get('GUNICORN_PORT', 7755))\nbind = '0.0.0.0:{0}'.format(port_number)\nbacklog      = int(os.environ.get('GUNICORN_BACKLOG', 50))\nworkers      = int(os.environ.get('GUNICORN_NUMBER_WORKERS', 1))\nthreads      = int(os.environ.get('GUNICORN_NUMBER_WORKER_THREADS', 1))\nworker_connections = int(os.environ.get('GUNICORN_NUMBER_WORKER_CONNECTIONS', 20))\ntimeout      = int(os.environ.get('GUNICORN_WORKER_TIMEOUT', 60))\nkeepalive    = int(os.environ.get('GUNICORN_KEEPALIVE', 2))\nloglevel     = os.environ.get('GUNICORN_LOG_LEVEL', 'info')",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "port_number",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "port_number = int(os.environ.get('GUNICORN_PORT', 7755))\nbind = '0.0.0.0:{0}'.format(port_number)\nbacklog      = int(os.environ.get('GUNICORN_BACKLOG', 50))\nworkers      = int(os.environ.get('GUNICORN_NUMBER_WORKERS', 1))\nthreads      = int(os.environ.get('GUNICORN_NUMBER_WORKER_THREADS', 1))\nworker_connections = int(os.environ.get('GUNICORN_NUMBER_WORKER_CONNECTIONS', 20))\ntimeout      = int(os.environ.get('GUNICORN_WORKER_TIMEOUT', 60))\nkeepalive    = int(os.environ.get('GUNICORN_KEEPALIVE', 2))\nloglevel     = os.environ.get('GUNICORN_LOG_LEVEL', 'info')\nworker_class = os.environ.get('GUNICORN_WORKER_CLASS', 'sync')",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "bind = '0.0.0.0:{0}'.format(port_number)\nbacklog      = int(os.environ.get('GUNICORN_BACKLOG', 50))\nworkers      = int(os.environ.get('GUNICORN_NUMBER_WORKERS', 1))\nthreads      = int(os.environ.get('GUNICORN_NUMBER_WORKER_THREADS', 1))\nworker_connections = int(os.environ.get('GUNICORN_NUMBER_WORKER_CONNECTIONS', 20))\ntimeout      = int(os.environ.get('GUNICORN_WORKER_TIMEOUT', 60))\nkeepalive    = int(os.environ.get('GUNICORN_KEEPALIVE', 2))\nloglevel     = os.environ.get('GUNICORN_LOG_LEVEL', 'info')\nworker_class = os.environ.get('GUNICORN_WORKER_CLASS', 'sync')\nmax_requests = int(os.environ.get('GUNICORN_MAX_REQUESTS', 0))",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "worker_connections",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "worker_connections = int(os.environ.get('GUNICORN_NUMBER_WORKER_CONNECTIONS', 20))\ntimeout      = int(os.environ.get('GUNICORN_WORKER_TIMEOUT', 60))\nkeepalive    = int(os.environ.get('GUNICORN_KEEPALIVE', 2))\nloglevel     = os.environ.get('GUNICORN_LOG_LEVEL', 'info')\nworker_class = os.environ.get('GUNICORN_WORKER_CLASS', 'sync')\nmax_requests = int(os.environ.get('GUNICORN_MAX_REQUESTS', 0))\nmax_requests_jitter = int(os.environ.get('GUNICORN_MAX_REQUESTS_JITTER', 20))\ngraceful_timeout = int(os.environ.get('GUNICORN_WORKER_GRACEFUL_TIMEOUT', 5))\nreload = True\nlimit_request_line = 0",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "worker_class",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "worker_class = os.environ.get('GUNICORN_WORKER_CLASS', 'sync')\nmax_requests = int(os.environ.get('GUNICORN_MAX_REQUESTS', 0))\nmax_requests_jitter = int(os.environ.get('GUNICORN_MAX_REQUESTS_JITTER', 20))\ngraceful_timeout = int(os.environ.get('GUNICORN_WORKER_GRACEFUL_TIMEOUT', 5))\nreload = True\nlimit_request_line = 0\nspew = False\ndaemon = False\npidfile = None\numask = 0",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "max_requests",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "max_requests = int(os.environ.get('GUNICORN_MAX_REQUESTS', 0))\nmax_requests_jitter = int(os.environ.get('GUNICORN_MAX_REQUESTS_JITTER', 20))\ngraceful_timeout = int(os.environ.get('GUNICORN_WORKER_GRACEFUL_TIMEOUT', 5))\nreload = True\nlimit_request_line = 0\nspew = False\ndaemon = False\npidfile = None\numask = 0\nuser = None",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "max_requests_jitter",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "max_requests_jitter = int(os.environ.get('GUNICORN_MAX_REQUESTS_JITTER', 20))\ngraceful_timeout = int(os.environ.get('GUNICORN_WORKER_GRACEFUL_TIMEOUT', 5))\nreload = True\nlimit_request_line = 0\nspew = False\ndaemon = False\npidfile = None\numask = 0\nuser = None\ngroup = None",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "graceful_timeout",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "graceful_timeout = int(os.environ.get('GUNICORN_WORKER_GRACEFUL_TIMEOUT', 5))\nreload = True\nlimit_request_line = 0\nspew = False\ndaemon = False\npidfile = None\numask = 0\nuser = None\ngroup = None\ntmp_upload_dir = None",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "reload",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "reload = True\nlimit_request_line = 0\nspew = False\ndaemon = False\npidfile = None\numask = 0\nuser = None\ngroup = None\ntmp_upload_dir = None\nerrorlog = '-'",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "limit_request_line",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "limit_request_line = 0\nspew = False\ndaemon = False\npidfile = None\numask = 0\nuser = None\ngroup = None\ntmp_upload_dir = None\nerrorlog = '-'\naccesslog = '-'",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "spew",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "spew = False\ndaemon = False\npidfile = None\numask = 0\nuser = None\ngroup = None\ntmp_upload_dir = None\nerrorlog = '-'\naccesslog = '-'\naccess_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "daemon",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "daemon = False\npidfile = None\numask = 0\nuser = None\ngroup = None\ntmp_upload_dir = None\nerrorlog = '-'\naccesslog = '-'\naccess_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'\n# todo - JC: pass org_user_id tpa_id proxy_id and replace the three dashes in above format",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "pidfile",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "pidfile = None\numask = 0\nuser = None\ngroup = None\ntmp_upload_dir = None\nerrorlog = '-'\naccesslog = '-'\naccess_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'\n# todo - JC: pass org_user_id tpa_id proxy_id and replace the three dashes in above format\ndef post_fork(server, worker):",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "umask",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "umask = 0\nuser = None\ngroup = None\ntmp_upload_dir = None\nerrorlog = '-'\naccesslog = '-'\naccess_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'\n# todo - JC: pass org_user_id tpa_id proxy_id and replace the three dashes in above format\ndef post_fork(server, worker):\n    server.log.info(\"Worker spawned (pid: %s)\", worker.pid)",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "user = None\ngroup = None\ntmp_upload_dir = None\nerrorlog = '-'\naccesslog = '-'\naccess_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'\n# todo - JC: pass org_user_id tpa_id proxy_id and replace the three dashes in above format\ndef post_fork(server, worker):\n    server.log.info(\"Worker spawned (pid: %s)\", worker.pid)\ndef pre_fork(server, worker):",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "group",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "group = None\ntmp_upload_dir = None\nerrorlog = '-'\naccesslog = '-'\naccess_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'\n# todo - JC: pass org_user_id tpa_id proxy_id and replace the three dashes in above format\ndef post_fork(server, worker):\n    server.log.info(\"Worker spawned (pid: %s)\", worker.pid)\ndef pre_fork(server, worker):\n    pass",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "tmp_upload_dir",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "tmp_upload_dir = None\nerrorlog = '-'\naccesslog = '-'\naccess_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'\n# todo - JC: pass org_user_id tpa_id proxy_id and replace the three dashes in above format\ndef post_fork(server, worker):\n    server.log.info(\"Worker spawned (pid: %s)\", worker.pid)\ndef pre_fork(server, worker):\n    pass\ndef pre_exec(server):",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "errorlog",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "errorlog = '-'\naccesslog = '-'\naccess_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'\n# todo - JC: pass org_user_id tpa_id proxy_id and replace the three dashes in above format\ndef post_fork(server, worker):\n    server.log.info(\"Worker spawned (pid: %s)\", worker.pid)\ndef pre_fork(server, worker):\n    pass\ndef pre_exec(server):\n    server.log.info(\"Forked child, re-executing.\")",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "accesslog",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "accesslog = '-'\naccess_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'\n# todo - JC: pass org_user_id tpa_id proxy_id and replace the three dashes in above format\ndef post_fork(server, worker):\n    server.log.info(\"Worker spawned (pid: %s)\", worker.pid)\ndef pre_fork(server, worker):\n    pass\ndef pre_exec(server):\n    server.log.info(\"Forked child, re-executing.\")\ndef when_ready(server):",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    },
+    {
+        "label": "access_log_format",
+        "kind": 5,
+        "importPath": "gunicorn_config",
+        "description": "gunicorn_config",
+        "peekOfCode": "access_log_format = '%({X-Real-IP}i)s - - - %(t)s.%(T)s \"%(r)s\" \"%(f)s\" \"%(a)s\" %({X-Request-Id}i)s %(L)s %(b)s %(s)s'\n# todo - JC: pass org_user_id tpa_id proxy_id and replace the three dashes in above format\ndef post_fork(server, worker):\n    server.log.info(\"Worker spawned (pid: %s)\", worker.pid)\ndef pre_fork(server, worker):\n    pass\ndef pre_exec(server):\n    server.log.info(\"Forked child, re-executing.\")\ndef when_ready(server):\n    server.log.info(\"Server is ready. Spawning workers\")",
+        "detail": "gunicorn_config",
+        "documentation": {}
+    }
+]

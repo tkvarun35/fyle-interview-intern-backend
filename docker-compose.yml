@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  fyle_backend:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - USER=${USER}
+    volumes:
+      - .:/fyle_backend
+
+    ports:
+      - 0.0.0.0:7755:7755
+    container_name: fyle_backend
+    command: ash run.sh
